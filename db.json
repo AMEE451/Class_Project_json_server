@@ -20,55 +20,6 @@
     }
   ],
   "products": [
-    {
-      "id": "7d00",
-      "title": "vsdvd",
-      "price": "",
-      "image": "",
-      "category": "Category"
-    },
-    {
-      "id": "6dd2",
-      "title": "",
-      "price": "",
-      "image": "",
-      "category": "Men"
-    },
-    {
-      "id": "9212",
-      "title": "",
-      "price": "",
-      "image": "",
-      "category": "Women"
-    },
-    {
-      "id": "3c78",
-      "title": "",
-      "price": "",
-      "image": "",
-      "category": "Kids"
-    },
-    {
-      "id": "3132",
-      "title": "",
-      "price": "100",
-      "image": "",
-      "category": "Category"
-    },
-    {
-      "id": "f281",
-      "title": "",
-      "price": "5000",
-      "image": "",
-      "category": "Category"
-    },
-    {
-      "id": "3a78",
-      "title": "",
-      "price": "100",
-      "image": "",
-      "category": "Category"
-    }
   ],
   "cart": [
     {
